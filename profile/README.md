@@ -50,4 +50,5 @@
 | 3 | 25.01.06 | 4절 끝까지 | [cp4(2)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp4(2)) |
 | 4 | 25.01.13 | 5절 | [cp5](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp5) |
 | 5 | 25.01.18 | 6절~7절 | [cp6-7](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp6-7) |
-| 6 | 25.01.25 (예정) | 8절~8.3절 | [cp8(1)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp8(1)) |
+| 6 | 25.01.25 | 8절~8.3절 | [cp8(1)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp8(1)) |
+| 7 | 25.02.08 (예정) | 8.4절~8절 끝까지 | [cp8(2)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp8(2)) |
