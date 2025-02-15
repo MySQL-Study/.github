@@ -52,4 +52,5 @@
 | 5 | 25.01.18 | 6절~7절 | [cp6-7](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp6-7) |
 | 6 | 25.01.25 | 8절~8.3절 | [cp8(1)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp8(1)) |
 | 7 | 25.02.08 | 8.4절~8절 끝까지 | [cp8(2)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp8(2)) |
-| 7 | 25.02.15 (예정) | 9절~9.2절 | [cp9(1)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp9(1)) |
+| 7 | 25.02.15 | 9절~9.2절 | [cp9(1)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp9(1)) |
+| 8 | 25.02.22 (예정) | 9.3.1절 | [cp9(2)](https://github.com/MySQL-Study/Real-MySQL-1/tree/main/cp9(2)) |
